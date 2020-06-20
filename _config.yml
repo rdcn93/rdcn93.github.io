@@ -12,9 +12,9 @@ sass:
 # When modifying this file, take care to preserve the indentation. This is YAML ...
 
 # Main Headline, name required, subtitle optional
-name: Fuse Core
+name: Raul Castañeda
 #subtitle:
-subtitle: Frontend Developer
+subtitle: Developer
 
 # Title attribute of HTML Page, uses 'name' from above if empty
 title:
@@ -28,7 +28,7 @@ robots:
     crawl: index,follow
 
 # website address when deployed, also given as canonical link
-url: https://github.com/rdcn93/rdcn93.github.io/
+url: https://rdcn93.github.io/
 
 # The 'baseurl' is prepended to all website-internal links.
 # 'baseurl' will often be '', but for a project page on gh-pages, it needs to be the project name.
