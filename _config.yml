@@ -70,7 +70,7 @@ links:
       icon: fab fa-linkedin
   - googleplus:
       name: Google+
-      show: true
+      show: false
       href: https://plus.google.com/+YOUR_GOOGLEPLUS_USERNAME
       icon: fab fa-google-plus
   - twitter:
@@ -91,11 +91,11 @@ links:
   - facebook:
       name: Facebook
       show: true
-      href: https://facebook.com/YOUR_FB_USERNAME
+      href: https://facebook.com/rdcn93
       icon: fab fa-facebook
   - vkontakte:
       name: ВКонтакте
-      show: true
+      show: false
       href: https://vk.com/YOUR_VK_USERNAME
       icon: fab fa-vk
   - instagram:
@@ -155,7 +155,7 @@ links:
       icon: fab fa-tumblr
   - blog:
       name: Blog
-      show: true
+      show: false
       href: http://host.domain/your_blog
       icon: fas fa-book-open
   - email:
@@ -165,7 +165,7 @@ links:
       icon: fas fa-envelope
   - publickey:
       name: PGP Key
-      show: true
+      show: false
       href: https://pastebin.com/raw/YOUR_PUBLIC_KEY
       icon: fas fa-key
 
@@ -173,7 +173,9 @@ links:
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 #extra_html:
 extra_html: >
-    Any (multiline) text containing simple HTML,
-    such as links or ... lorem ipsum.
+    
+Philosophies of life ... 
+Ordem e progresso | Live a life you will remember |
+Ganarás más dinero, pero no más tiempo
 
 #EOF
