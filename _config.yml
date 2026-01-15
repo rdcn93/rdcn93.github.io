@@ -14,7 +14,7 @@ sass:
 # Main Headline, name required, subtitle optional
 name: Raul Castañeda
 #subtitle:
-subtitle: Web Developer
+subtitle: Software Engineer
 
 # Title attribute of HTML Page, uses 'name' from above if empty
 title:
@@ -69,6 +69,11 @@ links:
       show: true
       href: https://linkedin.com/in/rdcn93/
       icon: fab fa-linkedin
+  - github:
+      name: GitHub
+      show: true
+      href: https://github.com/rdcn93
+      icon: fab fa-github
   - googleplus:
       name: Google+
       show: false
@@ -89,6 +94,11 @@ links:
       show: false
       href: https://vine.co/YOUR_VINE_USERNAME
       icon: fab fa-vine
+  - instagram:
+      name: Instagram
+      show: true
+      href: https://instagram.com/rdcn93
+      icon: fab fa-instagram
   - facebook:
       name: Facebook
       show: true
@@ -99,11 +109,6 @@ links:
       show: false
       href: https://vk.com/YOUR_VK_USERNAME
       icon: fab fa-vk
-  - instagram:
-      name: Instagram
-      show: true
-      href: https://instagram.com/rdcn93
-      icon: fab fa-instagram
   - flickr:
       name: Flickr
       show: false
@@ -124,11 +129,6 @@ links:
       show: false
       href: http://www.last.fm/user/YOUR_LASTFM_USERNAME
       icon: fab fa-lastfm
-  - github:
-      name: GitHub
-      show: true
-      href: https://github.com/rdcn93
-      icon: fab fa-github
   - codepen:
       name: CodePen
       show: false
@@ -175,7 +175,7 @@ links:
 #extra_html:
 extra_html: >
     
-    Philosophies of life ... 
+    <b>Philosophies of life ...</br> 
     Ordem e progresso | Live a life you will remember |
     Ganarás más dinero, pero no más tiempo
 
